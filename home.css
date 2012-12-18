@@ -1,0 +1,116 @@
+
+
+
+div#e12             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	}
+span#e11            { /* images/survey005006.jpg */
+	background      : transparent url(images/survey005006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   8.25pt;
+	width           : 217.50pt;
+	height          : 296.25pt;
+	}
+span#e10            { /* images/survey005005.jpg */
+	background      : transparent url(images/survey005005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             :  27.00pt;
+	width           : 178.50pt;
+	height          :  36.00pt;
+	}
+h1#e9               { /* SURVEYS */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  45.00pt;
+	top             :  27.00pt;
+	width           : 150.00pt;
+	height          :  26.25pt;
+	}
+span#e8             { /* images/survey005004.jpg */
+	background      : transparent url(images/survey005004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             :  94.50pt;
+	width           :  90.00pt;
+	height          :  97.50pt;
+	}
+span#e7             { /* images/survey005003.jpg */
+	background      : transparent url(images/survey005003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 126.00pt;
+	top             :  94.50pt;
+	width           :  90.00pt;
+	height          :  97.50pt;
+	}
+span#e6             { /* images/survey005002.jpg */
+	background      : transparent url(images/survey005002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 199.50pt;
+	width           :  90.00pt;
+	height          :  97.50pt;
+	}
+span#e5             { /* images/survey005001.jpg */
+	background      : transparent url(images/survey005001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 126.00pt;
+	top             : 199.50pt;
+	width           :  90.00pt;
+	height          :  97.50pt;
+	}
+div#e4              { /* Car Survey */
+	padding-top     :  19.50pt;
+	position        : absolute;
+	left            :  27.75pt;
+	top             :  99.75pt;
+	width           :  75.75pt;
+	height          :  56.25pt;
+	}
+div#e3              { /* Music Survey */
+	padding-top     :  20.25pt;
+	position        : absolute;
+	left            : 132.00pt;
+	top             :  99.75pt;
+	width           :  75.75pt;
+	height          :  57.00pt;
+	}
+div#e2              { /* Movie Survey */
+	padding-top     :  22.50pt;
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 204.75pt;
+	width           :  75.75pt;
+	height          :  58.50pt;
+	}
+div#e1              { /* Contact Us */
+	padding-top     :  20.25pt;
+	position        : absolute;
+	left            : 132.00pt;
+	top             : 204.75pt;
+	width           :  75.75pt;
+	height          :  57.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

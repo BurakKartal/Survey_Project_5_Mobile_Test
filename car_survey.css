@@ -1,0 +1,213 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+.cc14               { /* Common */
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	border-width    :   0px;
+	}
+.cc15               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc16               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : right;
+	}
+.cc17               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e26             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	}
+span#e25            { /* images/survey006002.jpg */
+	background      : transparent url(images/survey006002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   8.25pt;
+	width           : 217.50pt;
+	height          : 296.25pt;
+	}
+span#e24            { /* images/survey006001.jpg */
+	background      : transparent url(images/survey006001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             :  27.00pt;
+	width           : 178.50pt;
+	height          :  36.00pt;
+	}
+h1#e23              { /* Car Survey */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  45.00pt;
+	top             :  27.00pt;
+	width           : 150.00pt;
+	height          :  26.25pt;
+	}
+form#f22            { /* default.asp onsubmit="re... */
+	position        : absolute;
+	left            :  12.00pt;
+	top             :  73.50pt;
+	width           : 210.00pt;
+	height          : 200.25pt;
+	}
+legend#e21          { /* Vehicle Details */
+	position        : absolute;
+	left            :  16.50pt;
+	top             :   5.25pt;
+	width           : 141.00pt;
+	height          :  14.25pt;
+	}
+label#e20           { /* Type of Car */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  23.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e19          { /* Combo Box Car_Type Type ... */
+	position        : absolute;
+	left            :  88.50pt;
+	top             :  21.75pt;
+	width           : 119.25pt;
+	}
+label#e18           { /* Seats */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  41.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e17          { /* Combo Box Seats Seats  */
+	position        : absolute;
+	left            :  88.50pt;
+	top             :  39.75pt;
+	width           : 119.25pt;
+	}
+label#e16           { /* Doors */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  59.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e15          { /* Combo Box Doors Doors  */
+	position        : absolute;
+	left            :  88.50pt;
+	top             :  57.75pt;
+	width           : 119.25pt;
+	}
+label#e14           { /* Cylinders */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  77.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e13          { /* Combo Box Cylinders Cyli... */
+	position        : absolute;
+	left            :  88.50pt;
+	top             :  75.75pt;
+	width           : 119.25pt;
+	}
+label#e12           { /* Fuel */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  95.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e11          { /* Combo Box Fuel Fuel  */
+	position        : absolute;
+	left            :  88.50pt;
+	top             :  93.75pt;
+	width           : 119.25pt;
+	}
+label#e10           { /* Age of Car */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 113.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e9           { /* Combo Box Age_Of_Car Age... */
+	position        : absolute;
+	left            :  88.50pt;
+	top             : 111.75pt;
+	width           : 119.25pt;
+	}
+label#e8            { /* Colour */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 131.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e7           { /* Combo Box Color Colour  */
+	position        : absolute;
+	left            :  88.50pt;
+	top             : 129.75pt;
+	width           : 119.25pt;
+	}
+label#e6            { /* Transmission */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 149.25pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e5           { /* Combo Box Transmission T... */
+	position        : absolute;
+	left            :  88.50pt;
+	top             : 147.75pt;
+	width           : 119.25pt;
+	}
+label#e4            { /* Engine Position */
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 165.75pt;
+	width           :  82.50pt;
+	height          :  14.25pt;
+	}
+select#e3           { /* Combo Box Engine_Positio... */
+	position        : absolute;
+	left            :  88.50pt;
+	top             : 165.75pt;
+	width           : 119.25pt;
+	}
+input#e2            { /* Submit Send Details  */
+	position        : absolute;
+	left            :   3.00pt;
+	top             : 189.75pt;
+	width           :  90.75pt;
+	}
+input#e1            { /* Reset Clear Details  */
+	position        : absolute;
+	left            : 117.00pt;
+	top             : 189.75pt;
+	width           :  90.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,64 @@
+
+
+
+.cc12               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+div#e5              {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	}
+span#e4             { /* images/survey003002.jpg */
+	background      : transparent url(images/survey003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   8.25pt;
+	width           : 217.50pt;
+	height          : 296.25pt;
+	}
+span#e3             { /* images/survey003001.jpg */
+	background      : transparent url(images/survey003001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             :  27.00pt;
+	width           : 178.50pt;
+	height          :  36.00pt;
+	}
+h1#e2               { /* Login Success */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  45.00pt;
+	top             :  27.00pt;
+	width           : 150.00pt;
+	height          :  28.50pt;
+	}
+div#e1              { /* WELCOME */
+	position        : absolute;
+	left            :  64.50pt;
+	top             :  91.50pt;
+	width           : 111.00pt;
+	height          :  24.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

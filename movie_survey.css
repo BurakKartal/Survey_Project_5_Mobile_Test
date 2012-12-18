@@ -1,0 +1,279 @@
+
+
+
+.cc21               { /* Common */
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	border-width    :   0px;
+	}
+.cc22               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : right;
+	}
+.cc23               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc24               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e36             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	}
+span#e35            { /* images/survey008002.jpg */
+	background      : transparent url(images/survey008002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   8.25pt;
+	width           : 217.50pt;
+	height          : 296.25pt;
+	}
+span#e34            { /* images/survey008001.jpg */
+	background      : transparent url(images/survey008001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             :  27.00pt;
+	width           : 178.50pt;
+	height          :  36.00pt;
+	}
+h1#e33              { /* Movie Survey */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  45.00pt;
+	top             :  27.00pt;
+	width           : 150.00pt;
+	height          :  26.25pt;
+	}
+form#f32            { /* default.asp onsubmit="re... */
+	position        : absolute;
+	left            :   3.00pt;
+	top             :  61.50pt;
+	width           : 228.75pt;
+	height          : 232.50pt;
+	}
+label#e31           { /* How often do you go to t... */
+	position        : absolute;
+	left            :   0.75pt;
+	top             :   7.50pt;
+	width           :  84.75pt;
+	height          :  38.25pt;
+	}
+select#e30          { /* Combo Box Movie_Frequenc... */
+	position        : absolute;
+	left            :  89.25pt;
+	top             :  15.00pt;
+	width           : 126.75pt;
+	}
+label#e29           { /* Favourite Movie Genres */
+	position        : absolute;
+	left            :   8.25pt;
+	top             :  48.00pt;
+	width           : 185.25pt;
+	height          :  14.25pt;
+	}
+input#e28           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :  65.25pt;
+	height          :  13.50pt;
+	}
+label#e27           { /* All */
+	position        : absolute;
+	left            :  48.75pt;
+	top             :  66.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e26           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             :  65.25pt;
+	height          :  13.50pt;
+	}
+label#e25           { /* Action */
+	position        : absolute;
+	left            : 150.75pt;
+	top             :  66.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e24           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             :  83.25pt;
+	height          :  13.50pt;
+	}
+label#e23           { /* Adventure */
+	position        : absolute;
+	left            :  48.75pt;
+	top             :  84.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e22           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             :  83.25pt;
+	height          :  13.50pt;
+	}
+label#e21           { /* Children's */
+	position        : absolute;
+	left            : 150.75pt;
+	top             :  84.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e20           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 101.25pt;
+	height          :  13.50pt;
+	}
+label#e19           { /* Comedy */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 102.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e18           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 101.25pt;
+	height          :  13.50pt;
+	}
+label#e17           { /* Documentary */
+	position        : absolute;
+	left            : 150.75pt;
+	top             : 102.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e16           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 119.25pt;
+	height          :  13.50pt;
+	}
+label#e15           { /* Drama */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 120.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e14           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 119.25pt;
+	height          :  13.50pt;
+	}
+label#e13           { /* Family */
+	position        : absolute;
+	left            : 150.75pt;
+	top             : 120.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e12           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 137.25pt;
+	height          :  13.50pt;
+	}
+label#e11           { /* Horror */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 138.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e10           { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 137.25pt;
+	height          :  13.50pt;
+	}
+label#e9            { /* Romance */
+	position        : absolute;
+	left            : 150.75pt;
+	top             : 138.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e8            { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 155.25pt;
+	height          :  13.50pt;
+	}
+label#e7            { /* Science Fiction */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 156.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e6            { /* Check Box Favorie_Movie_... */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 155.25pt;
+	height          :  13.50pt;
+	}
+label#e5            { /* Thriller */
+	position        : absolute;
+	left            : 150.75pt;
+	top             : 156.00pt;
+	width           :  78.75pt;
+	height          :  14.25pt;
+	}
+input#e4            { /* Check Box Contact_Me_Abo... */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 185.25pt;
+	height          :  13.50pt;
+	}
+label#e3            { /* Contact me from time to ... */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 180.75pt;
+	width           : 175.50pt;
+	height          :  37.50pt;
+	}
+input#e2            { /* Submit Send Details  */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 221.25pt;
+	width           :  90.75pt;
+	}
+input#e1            { /* Reset Clear Details  */
+	position        : absolute;
+	left            : 132.75pt;
+	top             : 221.25pt;
+	width           :  90.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

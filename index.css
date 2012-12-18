@@ -1,0 +1,130 @@
+
+
+
+.cc01               { /* Common */
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	border-width    :   0px;
+	}
+.cc02               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc03               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc04               { /* Common */
+	font            : 8pt 'MS Sans Serif';
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc05               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+div#e12             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	}
+span#e11            { /* images/survey001002.jpg */
+	background      : transparent url(images/survey001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   8.25pt;
+	width           : 217.50pt;
+	height          : 296.25pt;
+	}
+span#e10            { /* images/survey001001.jpg */
+	background      : transparent url(images/survey001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             :  27.00pt;
+	width           : 178.50pt;
+	height          :  36.00pt;
+	}
+h1#e9               { /* LOGIN */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  45.00pt;
+	top             :  27.00pt;
+	width           : 150.00pt;
+	height          :  26.25pt;
+	}
+form#f8             { /* default.asp onsubmit="re... */
+	position        : absolute;
+	left            :  11.25pt;
+	top             :  97.50pt;
+	width           : 228.75pt;
+	height          : 108.00pt;
+	}
+label#e7            { /* Name */
+	position        : absolute;
+	left            :  18.75pt;
+	top             :  12.00pt;
+	width           :  36.75pt;
+	height          :  14.25pt;
+	}
+input#e6            { /* Text Name Name  */
+	position        : absolute;
+	left            :  59.25pt;
+	top             :  10.50pt;
+	width           : 120.75pt;
+	}
+label#e5            { /* Password */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  30.00pt;
+	width           :  48.00pt;
+	height          :  14.25pt;
+	}
+input#e4            { /* Submit Send Details  */
+	position        : absolute;
+	left            :  81.00pt;
+	top             :  52.50pt;
+	width           :  79.50pt;
+	}
+input#e3            { /* Password password  */
+	position        : absolute;
+	left            :  59.25pt;
+	top             :  28.50pt;
+	width           : 120.75pt;
+	}
+label#e2            { /* Registration */
+	position        : absolute;
+	left            :  66.75pt;
+	top             :  81.75pt;
+	width           : 107.25pt;
+	height          :  14.25pt;
+	}
+label#e1            { /* Please Enter */
+	position        : absolute;
+	left            :  68.25pt;
+	top             : 104.25pt;
+	width           : 107.25pt;
+	height          :  14.25pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
