@@ -19,7 +19,7 @@
 		Login Wrong
 	</h1>
 	<div id="e1" class="cc13">
-		Something Wrong
+		<a href ='index.php'>Click this link to try again.</a>
 	</div>
 </div>
 </body>

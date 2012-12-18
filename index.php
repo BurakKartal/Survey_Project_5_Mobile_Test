@@ -33,10 +33,6 @@
 	<label id="e2" class="cc05">
 		<a href="registration.php">
 		Registration</a>
-	</label><br>
-	<label id="e1" class="cc05">
-		<a href="home.php">
-		Please Enter</a>
 	</label>
 </fieldset>
 </form>
