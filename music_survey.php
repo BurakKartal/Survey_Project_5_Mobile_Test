@@ -19,7 +19,7 @@
 	<h1 id="e39" class="header">
 		Music Survey
 	</h1>
-<form id="f38" action="default.asp" method="post" onsubmit="return weCheckForm(this)">
+<form id="f38" action="music_result.php" method="post" onsubmit="return weCheckForm(this)">
 <fieldset id="e38" class="cc18">
 	<legend id="e37" class="cc19">
 		Favourite Music Genres

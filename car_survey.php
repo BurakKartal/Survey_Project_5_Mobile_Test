@@ -19,7 +19,7 @@
 	<h1 id="e23" class="header">
 		Car Survey
 	</h1>
-<form id="f22" action="default.asp" method="post" onsubmit="return weCheckForm(this)">
+<form id="f22" action="car_result.php" method="post" onsubmit="return weCheckForm(this)">
 <fieldset id="e22" class="cc14">
 	<legend id="e21" class="cc15">
 		Vehicle Details

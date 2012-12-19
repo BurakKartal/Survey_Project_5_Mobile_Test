@@ -19,7 +19,7 @@
 	<h1 id="e21" class="header">
 		Contact Us
 	</h1>
-<form id="f20" action="default.asp" method="post" onsubmit="return weCheckForm(this)">
+<form id="f20" action="contact_us_result.php" method="post" onsubmit="return weCheckForm(this)">
 <fieldset id="e20" class="cc25">
 	<legend id="e19" class="cc26">
 		Contact Details
@@ -43,7 +43,7 @@
 	<label id="e10" class="cc27" for="e9">
 		Postal code
 	</label>
-	<input id="e9" class="cc28" type="text" name="Zip" title="Postal code" size="22"><br>
+	<input id="e9" class="cc28" type="text" name="Zipcode" title="Postal code" size="22"><br>
 	<label id="e8" class="cc27" for="e7">
 		Phone
 	</label>

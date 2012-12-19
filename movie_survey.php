@@ -19,7 +19,7 @@
 	<h1 id="e33" class="header">
 		Movie Survey
 	</h1>
-<form id="f32" action="default.asp" method="post" onsubmit="return weCheckForm(this)">
+<form id="f32" action="movie_result.php" method="post" onsubmit="return weCheckForm(this)">
 <fieldset id="e32" class="cc21">
 	<label id="e31" class="cc22" for="e30">
 		How often do you go to the movies?
