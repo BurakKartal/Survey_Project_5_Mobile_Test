@@ -10,7 +10,7 @@ $con = mysql_connect($hostname, $username, $password) or DIE('Connection to host
 mysql_select_db($dbname) or DIE('Database name is not available!');
 
 
-$sql = "INSERT INTO `contact_us`(`userid`, `username`, `address`, `city`, `states`, `postalcode`, `phone`, `email`, `country`)
+$sql = "INSERT INTO `contact_us_web`(`userid`, `username`, `address`, `city`, `states`, `postalcode`, `phone`, `email`, `country`)
     VALUES ('','$_POST[Name]','$_POST[Address]','$_POST[City]','$_POST[State]','$_POST[Zipcode]','$_POST[Phone]','$_POST[Email]','$_POST[Country]')";
 if (!mysql_query($sql, $con)) {
     die('Error: ' . mysql_error());

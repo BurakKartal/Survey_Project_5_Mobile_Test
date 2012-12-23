@@ -41,6 +41,11 @@ CREATE TABLE Contact_Details
 CREATE TABLE Car_Survey
 (
         userid int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+        username varchar(30),
+        email varchar(30),
+        country varchar(30),
+        gender varchar(30),
+        agegroup varchar(30),
         typeofcar varchar(30),
         seats int,
         doors int,
@@ -55,6 +60,11 @@ CREATE TABLE Car_Survey
 CREATE TABLE Music_Survey
 (
         userid int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+        username varchar(30),
+        email varchar(30),
+        country varchar(30),
+        gender varchar(30),
+        agegroup varchar(30),
         Alternative varchar(30),
         Blues varchar(30),
         BooksandSpoken varchar(30),
@@ -110,7 +120,7 @@ CREATE TABLE Sport_Survey
         oftensportpage varchar(30)
 );
 
-CREATE TABLE Contact_us
+CREATE TABLE Contact_us_web
 (
         userid int NOT NULL AUTO_INCREMENT PRIMARY KEY,
         username varchar(30) NOT NULL,
@@ -121,5 +131,14 @@ CREATE TABLE Contact_us
         phone varchar(50),
         email varchar(50),
         country varchar(50)
+);
+
+CREATE TABLE Contact_us
+(
+        userid int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+        username varchar(30) NOT NULL,
+        email varchar(30) NOT NULL,
+        address varchar(50) NOT NULL,
+        comment varchar(150)
 );
 
